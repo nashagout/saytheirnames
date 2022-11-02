@@ -9,11 +9,11 @@ type PaginationProps = {
 function Pagination({ previous, next, active }: PaginationProps) {
   return (
     <div className="btn-group">
-      <button onClick={previous} className="btn btn-xs">
+      <button onClick={previous} className="btn-xs btn">
         «
       </button>
-      <button className="btn btn-xs">Page {active}</button>
-      <button onClick={next} className="btn btn-xs">
+      <button className="btn-xs btn uppercase">Page {active}</button>
+      <button onClick={next} className="btn-xs btn">
         »
       </button>
     </div>

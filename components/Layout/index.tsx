@@ -24,7 +24,7 @@ function Layout({ children }: Props) {
               href="https://github.com/nashagout/saytheirnames"
               className="link-hover link"
             >
-              Contribute on this website
+              Contribute to the project.
             </a>
           </p>
         </div>

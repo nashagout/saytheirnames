@@ -92,7 +92,7 @@ function AutoComplete({
               <button
                 key={item.id}
                 onClick={() => handleTagClick(item.id)}
-                className="btn-xs btn mx-0.5 "
+                className="btn-xs btn mx-0.5 uppercase "
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"

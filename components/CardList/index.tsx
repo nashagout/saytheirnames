@@ -67,7 +67,10 @@ function CardList({ data, loading, search }: CardListProps) {
           )}
         </>
       ) : (
-        <>Loading...</>
+        <div className="flex w-full flex-col items-center justify-center p-9">
+          <p className=" mb-2 text-xs">LOADING</p>
+          <progress className="progress progress-error  w-56 "></progress>
+        </div>
       )}
     </>
   );
