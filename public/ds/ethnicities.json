@@ -1,0 +1,38 @@
+[
+  {
+    "label": "Arab",
+    "id": "e_0"
+  },
+  {
+    "label": "Armenian",
+    "id": "e_1"
+  },
+  {
+    "label": "Baloch",
+    "id": "e_2"
+  },
+  {
+    "label": "Gilak",
+    "id": "e_3"
+  },
+  {
+    "label": "Kurd",
+    "id": "e_4"
+  },
+  {
+    "label": "Lur",
+    "id": "e_5"
+  },
+  {
+    "label": "Persian",
+    "id": "e_6"
+  },
+  {
+    "label": "Turk",
+    "id": "e_7"
+  },
+  {
+    "label": "Turkmen",
+    "id": "e_8"
+  }
+]
