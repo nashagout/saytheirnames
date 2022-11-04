@@ -85,6 +85,36 @@ const Home: NextPage = () => {
       <Head>
         <title>SAY THEIR NAMES</title>
         <meta name="description" content="Lives taken by Islamic Republic." />
+        <meta name="title" content="Say Their Names." />
+        <meta
+          name="description"
+          content="For those beautiful lives taken by Islamic Republic."
+        />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://saytheirnames.today/" />
+        <meta property="og:title" content="Say Their Names." />
+        <meta
+          property="og:description"
+          content="For those beautiful lives taken by Islamic Republic."
+        />
+        <meta
+          property="og:image"
+          content="https://saytheirnames.today/images/meta.png"
+        />
+
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://saytheirnames.today/" />
+        <meta property="twitter:title" content="Say Their Names." />
+        <meta
+          property="twitter:description"
+          content="For those beautiful lives taken by Islamic Republic."
+        />
+        <meta
+          property="twitter:image"
+          content="https://saytheirnames.today/images/meta.png"
+        ></meta>
+
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Layout>
