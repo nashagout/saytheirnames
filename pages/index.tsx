@@ -11,6 +11,7 @@ import useFetch from "hooks/useFetch";
 import useFilteredSearch from "hooks/useFilteredSearch";
 import usePrevious from "hooks/usePrevious";
 import { TagType, SearchValueType, RichNameType } from "types/common";
+import * as gtag from "lib/gtag";
 import { Url } from "url";
 
 function shuffle(array: RichNameType[]) {
@@ -77,6 +78,12 @@ const Home: NextPage = () => {
     };
     router.replace(updatedRouter as unknown as Url, undefined, {
       shallow: true,
+    });
+
+    gtag.event({
+      action: "name_search",
+      category: "Search",
+      label: search,
     });
   }
 
