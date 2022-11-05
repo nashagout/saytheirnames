@@ -244,7 +244,7 @@
   {
     "id": "n_23",
     "firstName": "Qazaleh",
-    "lastName": "Chalabi",
+    "lastName": "Chelabi",
     "dob": null,
     "dod": "2022-09-22",
     "cod": "c_34",
@@ -306,6 +306,17 @@
     "cob": "",
     "ethnicity": "",
     "age": 70
+  },
+  {
+    "id": "n_29",
+    "firstName": "Ali",
+    "lastName": "Kord Moradzehi",
+    "dob": null,
+    "dod": "2022-11-04",
+    "cod": "c_392",
+    "cob": "",
+    "ethnicity": "",
+    "age": null
   },
   {
     "id": "n_30",
@@ -603,6 +614,17 @@
     "cob": "",
     "ethnicity": "e_5",
     "age": null
+  },
+  {
+    "id": "n_55",
+    "firstName": "Momen",
+    "lastName": "Zand Karimi",
+    "dob": null,
+    "dod": "2022-11-02",
+    "cod": "c_22",
+    "cob": "",
+    "ethnicity": "e_4",
+    "age": 18
   },
   {
     "id": "n_58",
@@ -1804,6 +1826,17 @@
     "age": null
   },
   {
+    "id": "n_171",
+    "firstName": "Mohammad Javad",
+    "lastName": "Zahedi Saravi",
+    "dob": null,
+    "dod": "2022-09-22",
+    "cod": "c_169",
+    "cob": "",
+    "ethnicity": "e_3",
+    "age": 20
+  },
+  {
     "id": "n_172",
     "firstName": "Mohammad",
     "lastName": "Hosseinkhah",
@@ -1905,7 +1938,7 @@
   {
     "id": "n_181",
     "firstName": "Abbas",
-    "lastName": "Mirmousa",
+    "lastName": "Mirmousavi",
     "dob": null,
     "dod": "2022-09-21",
     "cod": "c_178",
@@ -2308,6 +2341,17 @@
     "cob": "",
     "ethnicity": "",
     "age": 19
+  },
+  {
+    "id": "n_218",
+    "firstName": "Saman",
+    "lastName": "Qaderpour",
+    "dob": null,
+    "dod": null,
+    "cod": "c_0",
+    "cob": "",
+    "ethnicity": "",
+    "age": 37
   },
   {
     "id": "n_219",
